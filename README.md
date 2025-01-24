@@ -8,3 +8,6 @@
 
    Выполнение JOIN-запросов к Базе Данных приложения "Интернет-магазин" через MySQL Worckbench.
 
+3. [Работа с базой данных в MongoDB](https://docs.google.com/spreadsheets/d/1qgYDJjSMHT5677kghuHIX6nbL-6WmaVtDirSrhDHdIc/edit?usp=sharing)
+
+   Cоздание коллекции в MongoDB, выполнение запросов и работа с базой данных.

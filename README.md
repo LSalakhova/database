@@ -1,13 +1,14 @@
-# Работа с базами данных
+# 📓 Work with Databases
 
-1. [Работа с базой данных в MySQL Worckbench. SELECT-запросы](https://docs.google.com/spreadsheets/d/1BLSwT8LAUESh0bZOp9NpFvflU0Rkv0I8DL60lEDH8sI/edit?gid=0#gid=0)
+Here I would like to showcase my work with databases written in Russian Language to demonstrate my ability to work in the second languauge too. As an example I used the [Demoshopping.ru](https://demoshopping.ru/) webstore's database and as for the tools, I used 🐬 MySQL Workbench and 🍃 MongoDB.
+1. [MySQL Worckbench. SELECT-queries](https://docs.google.com/spreadsheets/d/1BLSwT8LAUESh0bZOp9NpFvflU0Rkv0I8DL60lEDH8sI/edit?gid=0#gid=0)
 
-   Выполнение SELECT-запросов к Базе Данных приложения "Интернет-магазин" через MySQL Worckbench.
+   Executing SELECT-queries to the webstore's database via MySQL Workbench.
 
-2. [Работа с базой данных в MySQL Worckbench. JOIN-запросы](https://docs.google.com/spreadsheets/d/1o46G7DiI1IFqceeXA24FtqWvFshR2nPKC7y_dwyb0os/edit?usp=sharing)
+2. [MySQL Worckbench. JOIN-queries](https://docs.google.com/spreadsheets/d/1o46G7DiI1IFqceeXA24FtqWvFshR2nPKC7y_dwyb0os/edit?usp=sharing)
 
-   Выполнение JOIN-запросов к Базе Данных приложения "Интернет-магазин" через MySQL Worckbench.
+   Executing JOIN-queries to the webstore's database via MySQL Workbench.
 
-3. [Работа с базой данных в MongoDB](https://docs.google.com/spreadsheets/d/1qgYDJjSMHT5677kghuHIX6nbL-6WmaVtDirSrhDHdIc/edit?usp=sharing)
+3. [Work with Databases via MongoDB](https://docs.google.com/spreadsheets/d/1qgYDJjSMHT5677kghuHIX6nbL-6WmaVtDirSrhDHdIc/edit?usp=sharing)
 
-   Cоздание коллекции в MongoDB, выполнение запросов и работа с базой данных.
+   Creating a collection in MongoDB, running queries and working with the database.
